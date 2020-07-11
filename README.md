@@ -1,0 +1,2 @@
+# fifaauctionssystem
+’FIFA AUCTIONS’ is a standalone JAVA application which allows the gamers to conduct friendly auctions using virtual money ‘outside’ the game. Random players appear in the application and users can bid for their favorite ones. The data of players bought get stored in the database and using the report generated, team customizations can be made ‘inside’ the game. ’FIFA AUCTIONS’ helps gamers create their dream team and ease their winnings in multiplayer scenarios.
